@@ -1,6 +1,3 @@
-theme : sky
-slide-number: true
-
 ## 第6回Asprovaコンテスト解法
 
 ---
