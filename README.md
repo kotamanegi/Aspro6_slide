@@ -1,1 +1,0 @@
-# Aspro6_slide
